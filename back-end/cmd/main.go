@@ -3,10 +3,11 @@ package main
 import (
 	"log"
 
-	"back-end/database"
-	"back-end/routes"
+	"github.com/koonpoych2/web-recipes/back-end/routes"
 
-	"back-end/config"
+	"github.com/koonpoych2/web-recipes/back-end/database"
+
+	"github.com/koonpoych2/web-recipes/back-end/config"
 
 	"github.com/gofiber/fiber/v2"
 )
