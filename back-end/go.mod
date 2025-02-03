@@ -1,4 +1,4 @@
-module github.com/koonpoych2/web-recipes.git
+module github.com/koonpoych2/web-recipes/back-end
 
 go 1.22.2
 
@@ -8,10 +8,9 @@ require (
 	gorm.io/driver/postgres v1.5.11
 	gorm.io/gorm v1.25.12
 	// Add your module with a personal access token
-	github.com/koonpoych2/web-recipes/internal/services v0.0.0 // indirect
+	
 )
 
-// replace github.com/koonpoych2/web-recipes/internal/services => github.com/koonpoych2/web-recipes/internal/services v0.0.0
 
 require (
 	github.com/andybalholm/brotli v1.1.0 // indirect

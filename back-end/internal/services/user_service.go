@@ -1,8 +1,8 @@
 package services
 
 import (
-	"your-project/database"
-	"your-project/internal/models"
+	"github.com/koonpoych2/web-recipes/back-end/database"
+	"github.com/koonpoych2/web-recipes/back-end/internal/models"
 )
 
 type UserInput struct {

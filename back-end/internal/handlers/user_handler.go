@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"github.com/koonpoych2/web-recipes/internal/services"
+	"github.com/koonpoych2/web-recipes/back-end/internal/services"
 
 	"github.com/gofiber/fiber/v2"
 )
